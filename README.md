@@ -1,6 +1,11 @@
 # bcr
 Book Curated Registry
 
+# Lista de livros pra presentes:
+- 47 contos de Isaac Bashevis Singer
+- https://cantodaleitur.blogspot.com/2014/08/filme-festa-de-babette-1987.html
+
+
 # Daniel Fernandes
 Selecionei alguns contos para as minhas aulas de história: https://www.facebook.com/profile.php?id=100005108589463
 
