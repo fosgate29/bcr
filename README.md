@@ -2,7 +2,7 @@
 Book Curated Registry
 
 # Daniel Fernandes
-Selecionei alguns contos para as minhas aulas de história:
+Selecionei alguns contos para as minhas aulas de história: https://www.facebook.com/profile.php?id=100005108589463
 
 ***Grécia/Heroi/Mitologia***
 
