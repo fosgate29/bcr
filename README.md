@@ -6,7 +6,7 @@ Selecionei alguns contos para as minhas aulas de história: https://www.facebook
 
 ***Grécia/Heroi/Mitologia***
 
-- Claude Pouzadoux, Teseu, o Ateniense
+- Claude Pouzadoux, Teseu, o Ateniense - **Contos e Lendas da Mitologia Grega.pdf**
 
 ***Roma/Bretanha***
 
