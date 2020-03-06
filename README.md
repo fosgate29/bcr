@@ -64,3 +64,47 @@ Selecionei alguns contos para as minhas aulas de história: https://www.facebook
 - Varlam Chalámov, Contos de Kolimá - Pão
 
 - Varlam Chalámov, Contos de Kolimá - O mulá tártaro e o ar puro
+
+** Lista aulas de Filosofia
+1º bimestre 
+
+- Platão, Apologia de Sócrates (livro) 
+- João do Rio, O homem de cabeça de papelão (conto)
+
+2º bimestre 
+
+- Hermann Melville, Bartebly, o escriturário (livro)
+- Murilo Rubião, A cidade (conto) 
+
+3º bimestre 
+
+- Tolstói, A morte de Ivan Ilitch (livro) 
+- Tchekov, Angústia (conto) 
+
+4º bimestre 
+
+-Sêneca, A Brevidade da Vida (livro) 
+-Tchekov, A Aposta (conto) 
+
+
+2º ANO
+
+1º bimestre 
+
+-Platão, A República, livro VII (Alegoria da caverna) 
+-Raul Pompéia, A batalha dos livros (conto) 
+
+2º bimestre 
+
+-Lima Barreto, O homem que sabia Javanês (conto) 
+-Lima Barreto, Harakashy e as Escolas de Java (conto) 
+
+3º bimestre 
+
+-Machado de Assis, O Alienista (conto) 
+- Machado de Assis, A causa secreta (conto) 
+
+4º bimestre 
+
+-Platão, O Primeiro Alcibíades (livro) 
+- Arthur Conan Doyle, A faixa malhada (conto)
