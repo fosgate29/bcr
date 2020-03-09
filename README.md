@@ -65,7 +65,8 @@ Selecionei alguns contos para as minhas aulas de história: https://www.facebook
 
 - Varlam Chalámov, Contos de Kolimá - O mulá tártaro e o ar puro
 
-** Lista aulas de Filosofia
+
+**Lista aulas de Filosofia
 1º bimestre 
 
 - Platão, Apologia de Sócrates (livro) 
