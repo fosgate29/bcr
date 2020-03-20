@@ -5,6 +5,15 @@ Book Curated Registry
 - 47 contos de Isaac Bashevis Singer
 - https://cantodaleitur.blogspot.com/2014/08/filme-festa-de-babette-1987.html
 
+# Raul Martins
+
+- A Alma da Festa, Alexandre Soares Silva e Humanidade é uma Gorda Dançando em um Banquinho
+- As Aventuras do Sr. Pickwick, Dickens
+- Tremendas Trivilidades / O Defensor , Chesterton
+- Contos da Cantuária, Chaucer (vários poemas que vão desde guerras e graves assuntos
+- Ortodoxia, Chesterton  (obra prima dele)
+- Cartas de um Diabo ao Seu Aprendiz, C. S. Lewis (livro pequeno e fácil)
+- O Senhor dos Aneis 
 
 # Daniel Fernandes
 Selecionei alguns contos para as minhas aulas de história: https://www.facebook.com/profile.php?id=100005108589463
