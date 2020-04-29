@@ -76,6 +76,7 @@ Selecionei alguns contos para as minhas aulas de história: https://www.facebook
 
 
 **Lista aulas de Filosofia**
+
 1º bimestre 
 
 - Platão, Apologia de Sócrates (livro) 
@@ -99,7 +100,7 @@ Selecionei alguns contos para as minhas aulas de história: https://www.facebook
 
 2º ANO
 
-1º bimestre 
+1º bimestre
 
 -Platão, A República, livro VII (Alegoria da caverna) 
 -Raul Pompéia, A batalha dos livros (conto) 
