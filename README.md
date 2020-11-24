@@ -119,3 +119,95 @@ Selecionei alguns contos para as minhas aulas de história: https://www.facebook
 
 -Platão, O Primeiro Alcibíades (livro) 
 - Arthur Conan Doyle, A faixa malhada (conto)
+
+
+## Contos ensino médio
+- VIDA INTELECTUAL 
+    - 1- Machado de Assis, Teoria do Medalhão (vida de aparências)
+    - 2- Lima Barreto, O homem que sabia javanês (charlatanismo intelectual)
+    - 3- Lima Barreto_Harakashy e as escolas de java (charlatanismo intelectual)
+    - 4- Lima Barreto, A Biblioteca (desprezo pelo conhecimento)
+    - 5- Tchekhov, A Aposta (a descoberta da vida intelectual)
+    - 6- João do Rio, O homem de cabeça de papelão (corrupção intelectual e moral)
+    - 7- Raul Pompéia, A batalha dos livros (o problema do acúmulo e da síntese de informações)
+- PANDEMIA/COMPORTAMENTO HUMANO/CONDIÇÃO HUMANA
+    - 1-  Bocaccio, Decamenon -Primeira Jornada (comportamento humano diante da peste)
+    - 2-  Edgar Allan Poe, A Máscara da Morte Rubra (comportamento humano diante da peste)
+    - 3- João do Rio, A Peste (comportamento humano diante da peste)
+- MORTE
+    - 1-  Ryûnosuke Akutagawa, Terra morta (comportamento humano diante da morte)
+    - 2-  Varlam Chalámov - Contos de Kolimá – Xerez (comportamento humano diante da morte)
+- QUESTÕES EXISTENCIAIS/ SENTIDO DA VIDA
+      1- Machado de Assis, O último capítulo (suicídio)
+      2- Hermann Melville, Bartebly, o escriturário (vazio existencial)
+- CONSCIÊNCIA MORAL
+      1- Edgar Allan Poe, William Wilson 
+- CIENTIFICISMO 
+      1-  Machado de Assis, O Alienista
+      2 – Machado de Assis, A causa secreta
+- MÉTODOS DE INVESTIGAÇÃO
+      1-  Arthur Conan Doyle, Série Sherlock Holmes
+- AMIZADE 
+    - 1- Clarice Lispector, Uma amizade sincera
+- INCOMUNICABILIDADE ENTRE OS HOMENS
+    - 1- Tchekov, Angústia 
+    
+### *****QUESTÕES SOCIAIS/SOCIOLOGIA****
+    - 1-  Charles Dickens, Conto de Natal 
+    - 2-  Mark Twain, O homem que corrompeu Hadleyburg 
+    - 3- Herman Melville, Bartebly, O escriturário 
+    - 4- João do Rio, O homem de cabeça de papelão
+    - 5- Machado de Assis, Suje-se Gordo!
+    - 6- Machado de Assis, O último capítulo
+    - 7- Lima Barreto, A matemática não falha
+    - 8- Lima Barreto, Era preciso, Lima Barreto
+    - 9- Lima Barreto, O pecado, Lima Barreto 
+    - 10 - Flannery O´Connor O Gerânio 
+    - 11- Eça de Queirós, O Tesouro
+    - 12 – Edgar Allan Poe, Da vigarice considerada como uma das ciências exatas 
+    - 13- Miguel de Unamuno, O Semelhante
+    - 14- Tennessee Williams, A bolsa aljofarada 
+    - 15- Franz Kafka, A metamorfose
+    - 16- Nikolai Leskov, Viagem com um niilista 
+    - 17- Monteiro Lobato, Cidades Mortas
+    - 18 - Xavier de Maistre, O Leproso da cidade de Aosta
+    - 19- Ryûnosuke Akutagawa, Ogin 
+    - 20- Ryûnosuke Akutagawa, O mártir 
+    - 21- Ryûnosuke Akutagawa, Ryôsai Ogata 
+    - 22 – Aldous Huxley, A livraria
+    - 23-  Lima Barreto, Um e Outro 
+    - 24-  Edgar Allan Poe, O homem da multidão 
+- MENTALIDADE REVOLUCIONÁRIA
+    - 1- Jerome K. Jerome, A Nova Utopia 
+    - 2- Joseph Conrad, O Anarquista
+    - 3- Kurt Vonnegut,Harrison Bergeron
+- HOMEM & NATUREZA
+    - 1-  Eça de Queirós, Civilização 
+    - 2-  Faulkner, O urso
+**** HISTÓRIA *****
+# HISTÓRIA ANTIGA
+1- Karel Čapek, O imperador Diocleciano 
+2- Charles e Mary Lamb, Cimbelino (contos de Shakespeare) 
+HISTÓRIA MEDIEVAL
+1- Charles e Mary Lamb,  Macbeth  (contos de Shakespeare) 
+2- Alexandre Herculano, A destruição de Áuria  
+3-  Hermann Hesse, Histórias Medievais 
+VIAGENS MARÍTIMAS
+1- Alexandre Herculano, Três meses em Calecute 
+REVOLUÇÃO FRANCESA 
+1-  Balzac, um episódio durante o Terror 
+ESCRAVIDÃO 
+    1-  Machado de Assis, O caso da Vara 
+    2- Machado de Assis, Pai contra Mãe 
+BRASIL (ENTRE O PERÍODO JOANINO E O PRIMEIRO REINADO)
+    1-  Machado de Assis, O espelho
+    2- Machado de Assis, Verba testamentária
+    3- Machado de Assis, Cantiga de Esponsais
+    4-  Lima Barreto, Mágoa que rala
+*****GRAMÁTICA*****
+      1- Artur Azevedo, O Gramático
+      2- Monteiro Lobato, O colocador de pronomes
+*****MATEMÁTICA*****
+      1- Malba Tahan, O homem que calculava (contos)
+*****GEOGRAFIA*****
+      1- Púchkin, Viagem a Arzrum  (Rússia)
